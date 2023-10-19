@@ -5,3 +5,4 @@ git add . #cesta k souboru/adresari
 git commit - #poznamka
 git pull
 code . #otevreni VSC
+git clone https://github.com/JMENO/soubor
