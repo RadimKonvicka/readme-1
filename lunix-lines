@@ -1,0 +1,6 @@
+<h1>Linux codes</h1>	
+git code 
+git push #odesle na server
+git add . #cesta k souboru/adresari
+git commit - #poznamka
+git pull
